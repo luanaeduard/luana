@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: rgb(44, 53, 123);
+    background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -27,5 +27,36 @@
 }
 
 .escola{
-    background-image: linear-gradient();
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.estudante{
+    padding: 24px 0;
+}
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
